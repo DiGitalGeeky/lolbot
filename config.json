@@ -1,18 +1,18 @@
 {
 	"user":{
-		"username":"Steve",
+		"username":"Nugleet",
 		"pass":""
 	},
 
 	"server":{
-		"address":"127.0.0.1",
-		"port":25565
+		"address":"powtani.aternos.me",
+		"port":62094
 	},
 
 	"keyword":{
 		"name" :
 		[
-			"Steve"
+			"POTAA"
 		],
 
 		"sleep" :
@@ -23,9 +23,9 @@
 	},
 
 	"message":{
-		"online":"Hello I'm a bot, tell me to sleep and I'll reconnect so you can sleep.",
-		"afk":"This is my bot, I'm not there I'll be back later.",
-		"sleep":"Alright, I'll be back !",
-		"greeting":"Hey, I'm a bot just tell me to sleep and I'll reconnect to let you pass the day."
+		"online":"POTAAA",
+		"afk":"BALIK LNG KO LINTE",
+		"sleep":"TULOG KO ANAY BWESIT",
+		"greeting":"HOY GAGO"
 	}
 }
